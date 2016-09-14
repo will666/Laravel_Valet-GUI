@@ -8,7 +8,7 @@ It is the compiled AppleScript application ready to use on Mac OS X.
 It is the uncompiled AppleScript script file.
 
 ### Screenshot
-![screenshot](https://github.com/will666/Laravel_Valet-GUI/blob/master/Laravel.png)
+![screenshot](https://github.com/will666/Laravel_Valet-GUI/blob/master/screenshot.png)
 
 ### Requirements
 Follow the instructions to install [Laravel Valet](https://github.com/laravel/valet)
